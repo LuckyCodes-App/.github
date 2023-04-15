@@ -1,3 +1,3 @@
 <div align="center">
-<img src="lucky-codes-verde.png">
+<img src="https://github.com/LuckyCodes-App/.github/blob/main/profile/lucky-codes-verde.png?raw=true">
 </div>
